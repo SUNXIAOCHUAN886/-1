@@ -1,4 +1,3 @@
- --[[King背景UI.@AL★King独家]]
  game:GetService("StarterGui"):SetCore("SendNotification",{Title = "★笑川大帝",Text = "欢迎使用笑川的脚本",Icon = "rbxassetid://123352102644609",Duration = 1,Callback = bindable,Button1 = "我鸡巴立了",Button2 = "谁给我口"})
  wait(2)
 game:GetService("StarterGui"):SetCore("SendNotification",{Title = "★笑川大帝",Text = "笑川制作",Icon = "rbxassetid://123352102644609",Duration = 1,Callback = bindable,Button1 = "射射射射射",Button2 = "未来射满了精液"})
